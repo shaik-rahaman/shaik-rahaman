@@ -22,15 +22,21 @@ Enterprise Agentic AI platform that converts Jira user stories into executable P
 
 ---
 
-### 📚 AI Test Case Generation using RAG *(Coming Soon)*
+### 📚 AI Test Case Generation using RAG
 
 LLM-powered RAG application that generates high-quality functional test cases from business requirements using semantic retrieval, prompt orchestration, and enterprise knowledge retrieval.
 
+🔗 **Repository:** https://github.com/shaik-rahaman/ai-test-case-generation-rag
+
+🌐 **Live Demo:** http://testcaseai.ddns.net
+
 ---
 
-### 📊 LLM Evaluation Framework *(Coming Soon)*
+### 💬 Conversational AI Sales Platform
 
-Framework for evaluating enterprise LLM applications using DeepEval, custom evaluation datasets, hallucination detection, faithfulness, safety validation, and regression testing.
+Multi-turn text and voice conversational AI combining LLM intent and entity extraction with deterministic state-machine control, persistent context, and appointment booking. 118 automated tests.
+
+🔗 **Repository:** https://github.com/shaik-rahaman/Conversational-AI-Sales-Platform
 
 ---
 
@@ -60,6 +66,7 @@ Framework for evaluating enterprise LLM applications using DeepEval, custom eval
 - JavaScript
 
 ### Cloud & DevOps
+- Azure
 - GitHub Actions
 - Azure DevOps
 - Docker
