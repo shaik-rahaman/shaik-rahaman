@@ -41,7 +41,6 @@ Framework for evaluating enterprise LLM applications using DeepEval, custom eval
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - LangChain
-- LangGraph
 - DeepEval
 - Prompt Engineering
 - AI Evaluation
